@@ -24,7 +24,7 @@ mermaid: true
 //代码片段
 Public class HelloWorld {
     public static void main(String[] args){
-        system.out.println("你好，世界！")；
+        system.out.println("你好，世界！") ;
     }
 }
 ```
